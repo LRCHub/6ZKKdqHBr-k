@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "水流のロック",
   "base_artist": "日食なつこ",
-  "createdAt": "2025-12-18T12:25:13.700580Z",
+  "createdAt": "2026-04-05T09:55:34.295743Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,15 @@
       "artist": "日食なつこ",
       "has_synced": false,
       "path": "select/pl_01_水流のロック_日食なつこ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "水流のロック",
+      "artist": "日食なつこ",
+      "has_synced": true,
+      "path": "select/localdb_01_水流のロック_日食なつこ.lrc",
+      "repo_name": "9MNjK6SKnYo"
     }
   ]
 }
